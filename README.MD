@@ -1,0 +1,1 @@
+This is a very simple web server listening to port 9999, can put PC on sleep or lock it. To make it work, create a firewall rule, and add a port forwarding rule into your router if using it via web.
